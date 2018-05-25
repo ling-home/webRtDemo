@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/activity_login"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/id_validate_room_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/validate_room_icon"/>
+
+    <View
+        android:id="@+id/id_id_validate_room_desc_line"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/line"
+        android:layout_below="@id/id_validate_room_icon"
+        android:layout_marginTop="20dp"
+        android:background="@color/colorItemLine"/>
+
+</RelativeLayout>

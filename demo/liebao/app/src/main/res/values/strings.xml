@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Live.me Demo</string>
+
+    <string name="link_confirm">YES</string>
+    <string name="link_url">Live list</string>
+
+    <string name="Anchors">Start Live Video</string>
+    <string name="Viewing">Watch \u0026 Beam</string>
+</resources>
